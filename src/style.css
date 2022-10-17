@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+button {
+    border: 1px white solid;
+    background-color: transparent;
+    padding: 0.5rem;
+}
